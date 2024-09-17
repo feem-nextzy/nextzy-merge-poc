@@ -1,0 +1,11 @@
+{
+	"name": "Crypto Merge",
+	"short_name": "Crypto Merge",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#000000",
+	"icons": [],
+	"screenshots": []
+}
